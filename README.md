@@ -1,4 +1,3 @@
-![A view from one of my national park trips](banner.jpg)
 # Hi, I'm Zening Wang
 
 **Statistics PhD Student at Rice University** 🦉
@@ -39,3 +38,5 @@ I developed this project while at Duke to make local public data more accessible
 ## 🏔️ A Little More About Me
 
 Outside of research and teaching, I enjoy pickleball, Zumba, yoga, and Pilates. I also love hiking and exploring national parks.
+
+![A view from one of my national park trips](banner.jpg)
