@@ -36,7 +36,7 @@ I was a teaching assistant for three semesters, helping students learn R and RSt
   
 ## 💻 Programming & Projects
 
-I work primarily in **R and Python**, with additional experience in **SQL, MATLAB, and SAS**. Outside my research, I enjoy exploring small projects, learning new tools, and turning ideas into working applications.
+Outside my research, I enjoy exploring small projects, learning new tools, and turning ideas into working applications.
 
 ### Selected projects
 
@@ -49,8 +49,12 @@ An R Shiny interface for retrieving and browsing New York Times articles by date
 📊 **[North Carolina Crime Dataset](https://github.com/Zening-Wang-22/NC-Crime-Dataset)**  
 I developed this project while at Duke to make local public data more accessible to researchers and the community. It brings together police incident records from four nearby North Carolina cities, with the curated dataset available on Hugging Face.
 
+## 🤖 Statisticians in the Age of AI
+
+I follow developments in AI and use LLMs and AI-assisted coding tools in my daily work. I am also strengthening my foundations in software and data engineering, including databases, algorithms, and writing maintainable, scalable code. Through this learning and hands-on practice, I aim to become a stronger, more well-rounded builder.
+
 ## 🏔️ A Little More About Me
 
-Outside of research and teaching, I enjoy pickleball, Zumba, yoga, and Pilates. I also love hiking and exploring national parks!
+I enjoy pickleball, Zumba, yoga, and Pilates. I also love hiking and exploring national parks! Below is a photo I took at White Sands National Park in New Mexico.
 
 ![A view from one of my national park trips](banner.jpg)
