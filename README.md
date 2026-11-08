@@ -4,9 +4,9 @@
 
 ### 🔬 Research
 
-At **Rice University**, I am co-advised by **Prof. Marina Vannucci** and **Prof. Cindy Zhang**. My research focuses on Bayesian transfer learning and causal inference, particularly Mendelian randomization and information sharing across populations.
+At **Rice University**, I am co-advised by **[Prof. Marina Vannucci](https://marina.blogs.rice.edu/)** and **[Prof. Cindy Zhang](https://profiles.rice.edu/faculty/cindy-zhang)**. My research focuses on Bayesian transfer learning and causal inference, particularly Mendelian randomization and information sharing across populations.
 
-Previously, at **Duke University**, I worked with **Prof. Anru Zhang** on matrix and tensor factorization methods for integrating longitudinal clinical data and static patient characteristics, with applications to sepsis phenotyping.
+Previously, at **Duke University**, I worked with **[Prof. Anru Zhang](https://anruzhang.github.io/index.html)** on matrix and tensor factorization methods for integrating longitudinal clinical data and static patient characteristics, with applications to sepsis phenotyping.
 
 ### 💻 Programming & Projects
 
