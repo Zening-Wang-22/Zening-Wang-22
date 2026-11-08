@@ -4,16 +4,16 @@
 
 **Statistics PhD Student at Rice University** 🦉
 
-![Bayesian Statistics](https://img.shields.io/badge/Bayesian_Statistics-7FB5E8?style=for-the-badge)
-![High-dimensional Inference](https://img.shields.io/badge/High--dimensional_Inference-6FCBB0?style=for-the-badge)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-F5B06E?style=for-the-badge)
-![Causal Inference](https://img.shields.io/badge/Causal_Inference-F08FAE?style=for-the-badge)
+![Bayesian Statistics](https://img.shields.io/badge/Bayesian_Statistics-6FA8E0?style=for-the-badge)
+![High-dimensional Inference](https://img.shields.io/badge/High--dimensional_Inference-5FC4A8?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-EE9A45?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/Causal_Inference-EC84A6?style=for-the-badge)
 
-![R](https://img.shields.io/badge/R-7FB5E8?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6FCBB0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F5B06E?style=for-the-badge&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-F08FAE?style=for-the-badge&logo=mathworks&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-B79CED?style=for-the-badge&logo=sas&logoColor=white)
+![R](https://img.shields.io/badge/R-6FA8E0?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5FC4A8?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-EE9A45?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-EC84A6?style=for-the-badge&logo=mathworks&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-A78BE8?style=for-the-badge&logo=sas&logoColor=white)
 </div>
 
 ## 🔬 Research
